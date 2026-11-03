@@ -25,6 +25,18 @@
 </p>
 
 <p align="center">
+  <a href="https://my-portfolio-iota-jade-69.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-my--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/rahulsinghkushwaha232/my-portfolio/deployments">
+    <img src="https://img.shields.io/badge/Deployment-Production-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Deployment Status" />
+  </a>
+  <a href="https://github.com/rahulsinghkushwaha232/my-portfolio/actions/workflows/deploy.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/rahulsinghkushwaha232/my-portfolio/deploy.yml?branch=main&label=Build%20%26%20Deploy&style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/rahulsinghkushwaha10/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
